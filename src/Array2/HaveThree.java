@@ -4,7 +4,7 @@ public class HaveThree {
     public static void main(String[] args) {
         int [] array={};
         System.out.println(haveThree(array));
-   
+
 
     }
     public static boolean haveThree(int[] nums) {
